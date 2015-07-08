@@ -1,0 +1,106 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #D5D5D5;
+}
+
+.wrapper {
+	margin: 3% auto;
+	height: 840px;
+	width: 660px;
+	background-color: #FFF;
+	border: 1px solid black;
+	
+}
+
+.topRed {
+	margin: 15px;
+	height: 120px;
+	width: 200px;
+	background-color: rgb(59, 123, 218);
+	float: left;
+}
+
+.topBlue {
+	margin: 15px 0;
+	height: 120px;
+	width: 200px;
+	background-color: rgb(195, 0, 21);
+	float: left;
+}
+
+.topGrey {
+	margin: 15px;
+	height: 120px;
+	width: 200px;
+	background-color: rgb(57, 57, 57);
+	float: right;
+
+}
+
+.clearFix {
+	clear:both;
+}
+
+.content {
+	height: 220px;
+}
+
+.written {
+	margin: 30px 0;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-family: sans-serif;
+	font-size: 1.1em;
+
+}
+
+.middleRed {
+	height: 300px;
+	width: 480px;
+	float: left;
+	margin-right: 15px;
+	background-color: rgb(59, 123, 218);
+}
+
+.middleBlue {
+	height: 300px;
+	width: 150px;
+	float: left;
+	margin-left: 15px;
+	background-color: rgb(195, 0, 21);
+}
+
+.bottomBlue {
+	background-color: rgb(195, 0, 21);
+	height: 100px;
+	width: 70%;
+	margin: 20px 0 20px 15px;
+	float: left;
+}
+
+.bottomRed {
+	background-color: rgb(59, 123, 218);
+	height: 100px;
+	width: 25.35%;
+	margin: 20px 15px 20px 0;
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
